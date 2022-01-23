@@ -1,12 +1,11 @@
 h1 {
-    color: red;
+    color: greenyellow;
     }
 
 img {
     width: 400px;
     }
-
-div #thirdDiv {
+#thirdDiv {
     height: 500px;
     width: 600px;
     background-color: green;
@@ -14,7 +13,7 @@ div #thirdDiv {
     border: 10px solid blue;
     }
 
-div #spanId {
+#spanId {
     font-size: 18;
     margin: 50px;
     }
